@@ -1,0 +1,2 @@
+rootProject.name='LANChat'
+include ':app'
